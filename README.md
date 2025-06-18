@@ -1,5 +1,5 @@
 
-![banner](https://github.com/user-attachments/assets/8a65d9a0-2a73-4922-95c4-3e2e5c429448)
+![banner](banner.png)
 
 
 # 👋 ¡Buenas a todos! Soy Jose Manuel Moreno
