@@ -2,7 +2,7 @@
 ![banner](banner.png)
 
 
-# 👋 ¡Buenas a todos! Soy Jose Manuel Moreno
+# 👋 ¡Buenas a todos! Soy Jose Manuel Moreno Valenzuela
 
 🎓 Titulado en Desarrollo de Aplicaciones Multiplataforma (DAM).  
 💻 Apasionado por la programación, el desarrollo web y la ciberseguridad.
