@@ -7,7 +7,7 @@
 🎓 Titulado en Desarrollo de Aplicaciones Multiplataforma (DAM).  
 💻 Apasionado por la programación, el desarrollo web y la ciberseguridad.
 
-🔗 **[💻 Ver mi portafolio interactivo estilo Matrix](https://josemmv-07.github.io)**  
+🔗 **[💻 Ver portafolio donde subo ejercicios que voy haciendo en diferentes lenguajes de programación](https://josemmv-07.github.io)**  
 📂 Es el lugar donde iré subiendo todo lo que voy aprendiendo poco a poco y lo iré mejorando a medida que progrese.
 
 ![Visitas](https://komarev.com/ghpvc/?username=josemmv-07&color=00ff00)
