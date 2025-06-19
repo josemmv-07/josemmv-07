@@ -4,8 +4,10 @@
 
 # 👋 ¡Buenas a todos! Soy Jose Manuel Moreno Valenzuela
 
-🎓 Titulado en Desarrollo de Aplicaciones Multiplataforma (DAM).  
-💻 Apasionado por la programación, el desarrollo web y la ciberseguridad.
+Desarrollador de aplicaciones multiplataforma con pasión por crear soluciones tecnológicas innovadoras. Me especializo en desarrollo web, aplicaciones móviles y tengo un gran interés en la ciberseguridad.
+- 🎓 Formación: Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
+- 🌱 Actualmente: Expandiendo mis conocimientos en desarrollo full-stack y buenas prácticas de seguridad
+- 🎯 Objetivo: Convertirme en un desarrollador versátil capaz de abordar proyectos complejo
 
 🔗 **[💻 Ver portafolio donde subo ejercicios que voy haciendo en diferentes lenguajes de programación](https://josemmv-07.github.io)**  
 📂 Es el lugar donde iré subiendo todo lo que voy aprendiendo poco a poco y lo iré mejorando a medida que progrese.
@@ -27,18 +29,31 @@
 
 ---
 
+## 📁 Repositorios destacados
+
+- 📦 [`cheaplist-backend`](https://github.com/josemmv-07/cheaplist-backend) — API del proyecto Cheaplist, desarrollada con Python (FastAPI).
+- 📱 [`cheaplist-fron`](https://github.com/josemmv-07/cheaplist-fron) — Aplicación frontend del proyecto Cheaplist desarrollada en Kotlin.
+- 🐍 [`portafolio-python`](https://github.com/josemmv-07/portafolio-python) — Scripts y ejercicios personales en Python.
+- 🌐 [`josemmv-07.github.io`](https://github.com/josemmv-07/josemmv-07.github.io) — Mi portafolio personal online publicado con GitHub Pages.
+
+---
+
+
 ### 📊 Nivel actual en tecnologías
 
 ```text
 🟩🟩🟩⬜⬜ Python  
 🟩🟩⬜⬜⬜ Java  
 🟩⬜⬜⬜⬜ PHP  
-🟩🟩⬜⬜⬜ HTML / CSS / JS
+🟩🟩🟩🟩⬜ HTML / CSS / JS
+🟩🟩⬜⬜⬜ Kotlin
 ```
 
 ---
 
 ## 📫 Contacto
+
+Me encanta colaborar en proyectos interesantes y aprender de otros desarrolladores. Si tienes una idea o proyecto en mente, ¡no dudes en contactarme!
 
 - 📧 josemanuelmorenovalenzuela@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jose-manuel-moreno-valenzuela-ba44722a5/)
