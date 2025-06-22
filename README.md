@@ -35,6 +35,9 @@ Desarrollador de aplicaciones multiplataforma con pasión por crear soluciones t
 - 📱 [`cheaplist-fron`](https://github.com/josemmv-07/cheaplist-fron) — Aplicación frontend del proyecto Cheaplist desarrollada en Kotlin.
 - 🐍 [`portafolio-python`](https://github.com/josemmv-07/portafolio-python) — Scripts y ejercicios personales en Python.
 - 🌐 [`josemmv-07.github.io`](https://github.com/josemmv-07/josemmv-07.github.io) — Mi portafolio personal online publicado con GitHub Pages.
+- 🧪 [` practicas-html-css-js`](https://github.com/josemmv-07/practicas-html-css-js) — Repositorio dedicado a ejercicios y prácticas de HTML, CSS y JavaScript.
+
+
 
 ---
 
