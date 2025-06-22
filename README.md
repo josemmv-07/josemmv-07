@@ -9,8 +9,8 @@ Desarrollador de aplicaciones multiplataforma con pasión por crear soluciones t
 - 🌱 Actualmente: Expandiendo mis conocimientos en desarrollo full-stack y buenas prácticas de seguridad
 - 🎯 Objetivo: Convertirme en un desarrollador versátil capaz de abordar proyectos complejo
 
-🔗 **[💻 Ver portafolio donde subo ejercicios que voy haciendo en diferentes lenguajes de programación](https://josemmv-07.github.io)**  
-📂 Es el lugar donde iré subiendo todo lo que voy aprendiendo poco a poco y lo iré mejorando a medida que progrese.
+🔗 **[🔗 💼 Este es mi currículum web](https://josemmv-07.github.io)**  
+📂 Un sitio donde puedes ver mi perfil, formación, conocimientos y proyectos, actualizado a medida que avanzo profesionalmente.
 
 ![Visitas](https://komarev.com/ghpvc/?username=josemmv-07&color=00ff00)
 
