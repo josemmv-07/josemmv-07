@@ -19,7 +19,7 @@
 - :dizzy: Desarrollador de aplicaciones multiplataforma con pasión por crear soluciones tecnológicas innovadoras
 - :iphone: Especializado en **desarrollo web** y **aplicaciones móviles**
 - :mortar_board: **Técnico Superior** en Desarrollo de Aplicaciones Multiplataforma (DAM)
-- :shield: Gran interés en **ciberseguridad** y buenas prácticas de seguridad
+- :shield: Gran interés en **ciberseguridad** 
 - :rocket: **Actualmente expandiendo** conocimientos en **full-stack development**
 - :globe_with_meridians: **Mi currículum web:** [![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=josemmv-07.github.io&color=00D4AA&style=flat-square&logo=github)](https://josemmv-07.github.io)
 - :mailbox_with_mail: **Contáctame** [![Email](https://img.shields.io/static/v1?label=email&message=josemanuelmorenovalenzuela@gmail.com&color=FF6B6B&style=flat-square&logo=gmail)](mailto:josemanuelmorenovalenzuela@gmail.com)
