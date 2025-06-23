@@ -11,10 +11,9 @@
 <!--About Me-->
 ## <picture><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;</picture> Sobre mí
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-     width="200px" 
-     align="right"
-     alt="Jose coding" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" alt="Jose coding">
+</p>
 
 - :dizzy: Desarrollador de aplicaciones multiplataforma con pasión por crear soluciones tecnológicas innovadoras
 - :iphone: Especializado en **desarrollo web** y **aplicaciones móviles**
