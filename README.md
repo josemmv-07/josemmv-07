@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">👋 ¡Buenas a todos!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Jose Manuel Moreno Valenzuela</h1></summary>
+    <summary><h1 style="display: inline-block">👋 ¡Buenas a todos!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Jose Manuel</h1></summary>
   </ul>
 </div>
 
