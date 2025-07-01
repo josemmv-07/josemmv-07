@@ -15,9 +15,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" alt="Jose coding">
 </p>
 
-- :dizzy: Desarrollador de aplicaciones multiplataforma con pasión por crear soluciones tecnológicas innovadoras
+- :dizzy: Desarrollador de aplicaciones multiplataforma con pasión 
 - :iphone: Especializado en **desarrollo web** y **aplicaciones móviles**
-- :mortar_board: **Técnico Superior** en Desarrollo de Aplicaciones Multiplataforma (DAM)
+- :mortar_board: **Técnico superior** en Desarrollo de Aplicaciones Multiplataforma (DAM)
 - :shield: Gran interés en **ciberseguridad** 
 - :rocket: **Actualmente expandiendo** conocimientos en **full-stack development**
 - :globe_with_meridians: **Mi currículum web:** [![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=josemmv-07.github.io&color=00D4AA&style=flat-square&logo=github)](https://josemmv-07.github.io)
@@ -28,9 +28,9 @@
 
 <br>
 
-## 🛠️ Mis Habilidades
+## 🛠 Habilidades
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Lenguajes de Programación
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Lenguajes 
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
@@ -45,7 +45,7 @@
     <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"></a>
 </p>
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%> Desarrollo Frontend
+### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%> Desarrollo 
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -58,7 +58,7 @@
     <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 </p>
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%> Herramientas & Tecnologías
+### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%> Herramientas 
 
 <p align="center">
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"></a>
@@ -69,7 +69,7 @@
   <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 </p>
 
-### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs & Editores
+### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%> Editores
 
 <p align="center">
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a>
@@ -80,7 +80,7 @@
 
 <br>
 
-## 📊 Nivel Actual en Tecnologías
+
 
 ```text
 Python           🟩🟩🟩⬜⬜ 60%
@@ -106,7 +106,7 @@ Kotlin           🟩🟩⬜⬜⬜ 40%
 
 </div>
 
-### 🚀 Proyectos Principales
+### Proyectos principales
 
 - 📦 **[cheaplist-backend](https://github.com/josemmv-07/cheaplist-backend)** — API del proyecto Cheaplist, desarrollada con Python (FastAPI)
 - 📱 **[cheaplist-fron](https://github.com/josemmv-07/cheaplist-fron)** — Aplicación frontend del proyecto Cheaplist desarrollada en Kotlin
@@ -116,7 +116,7 @@ Kotlin           🟩🟩⬜⬜⬜ 40%
 
 <br>
 
-## 📈 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=josemmv-07&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -132,7 +132,7 @@ Kotlin           🟩🟩⬜⬜⬜ 40%
 
 <br>
 
-## 🏆 Trofeos de GitHub
+## 🏆 Trofeos
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=josemmv-07&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
